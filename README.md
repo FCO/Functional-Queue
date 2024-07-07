@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/FCO/Functional-Queue/actions/workflows/test.yml/badge.svg)](https://github.com/FCO/Functional-Queue/actions)
+
 NAME
 ====
 
