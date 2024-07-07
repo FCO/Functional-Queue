@@ -6,6 +6,8 @@
   "build-depends": [
   ],
   "depends": [
+    "ValueClass",
+    "Functional::Stack"
   ],
   "description": "Functional queue",
   "license": "Artistic-2.0",
